@@ -6,5 +6,4 @@ Watching the cursor move around is kind of cool, I guess.
 Deleted test file
 
 And there, now I'm on window three.
-
- 
+It's kind of a weird setup given that I also have to learn to use the Spacemacs addon Magit at the same time, which does funny things to window layouts.
